@@ -1,0 +1,21 @@
+﻿body{
+	background-image:url('../img/Background-1.jpg');
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+.logo{
+	width:120px;
+	padding-top:1rem;
+}
+
+.superior{
+	margin-top:1rem;
+}
+
+.borde-cont{
+	border:1px #BC6160 solid;
+	border-radius:0.5rem;
+}
+
+

@@ -1,0 +1,35 @@
+﻿.img_back{
+	background-image:url('../img/background.jpg');
+	background-attachment:fixed;
+	background-size:cover;
+}
+.margin_t{
+	margin-top:2rem;
+}
+
+.margin_l{
+	margin-left:3rem;
+}
+
+.img_radius{
+	border-radius:1rem;
+}
+
+.img_format{
+	margin-top:1rem;
+	margin-right:1rem;
+	height:15rem;
+	width:15rem;
+}
+
+.img_floting{
+	float:left;
+}
+
+.text-justify{
+	text-align:justify;
+}
+
+.margin-top{
+	margin-top:1rem;
+}

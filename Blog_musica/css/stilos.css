@@ -1,0 +1,63 @@
+﻿body{
+	background-color:crimson;
+}
+
+.banner{
+	background-color:white;
+	min-height:13rem;
+}
+
+.imagen-logo{
+	max-height:10rem;
+	max-width:10rem;
+}
+
+.buttons-format-1{
+	background-color:coral;
+	padding-top:0.5rem;
+	padding-bottom:0.5rem;
+	
+}
+
+.buttons-format{
+	width:100%;
+	background-color:white;	
+	color:coral;
+}
+
+.img-social{
+	height:5rem;
+	width:5rem;
+}
+
+.altura-cont{
+	height:5rem;
+}
+
+.img-blog{
+	height:100%;
+	width:100%;
+	padding-top:2rem;
+}
+
+.separador{
+	margin-top:1rem;
+}
+
+.separador-1{
+	margin-top:2rem;
+}
+
+.imagen-logo{
+	margin-top:2rem;
+	margin-bottom:2rem;	
+}
+
+.separador-2{
+	margin-top:2rem;
+	border-radius:1rem 1rem 0 0;
+}
+
+.esquinas-redondas-abajo{
+	border-radius:0 0 1rem 1rem;
+}
